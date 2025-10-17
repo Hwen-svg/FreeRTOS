@@ -52,6 +52,7 @@
 硬件连接图：https://github.com/Hwen-svg/OTHER/blob/main/SCH_Schematic1_1-P1_2025-10-12.png
 
 演示视频：https://github.com/Hwen-svg/OTHER/blob/main/10%E6%9C%8817%E6%97%A5(2).mp4
+注：蓝牙相关功能因设备有限暂时无法进行拍摄
 
 
 
